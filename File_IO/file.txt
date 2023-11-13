@@ -1,0 +1,4 @@
+Hey this a file tahta is created for the purpose of 
+understandin the file I/O ooperations
+.........
+Nice!!!!!!!!!!!!!
